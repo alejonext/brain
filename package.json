@@ -1,0 +1,24 @@
+{
+	"name": "brain",
+	"version": "1.0.0",
+	"description": "Estuctura de semiotica aplicada",
+	"main": "bin/index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/alejonext/brain.git"
+	},
+	"keywords": [
+		"brain",
+		"semotic",
+		"art"
+	],
+	"author": "AlejoNext",
+	"license": "GLP 2.0",
+	"bugs": {
+		"url": "https://github.com/alejonext/brain/issues"
+	},
+	"homepage": "https://github.com/alejonext/brain"
+}
